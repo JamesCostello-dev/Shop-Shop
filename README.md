@@ -2,7 +2,7 @@
 
 ## Description
 
-Google Books API search engine built with a RESTful API, and refactored to be a GraphQL API built with Apollo Server. 
+E-commerce platform refactor from Context API to Redux.
 
 ## Table of Contents:
 
@@ -13,15 +13,15 @@ Google Books API search engine built with a RESTful API, and refactored to be a 
 
 ## Tech
 
-HTML, CSS, Javascript, React, Express, Node and MongoDB
+HTML, CSS, Javascript, React, Redux, Express, Node and MongoDB
 
 ## Deployed Application
 
-[Deployed Link](https://blooming-refuge-93954.herokuapp.com/)
+[Deployed Link]()
 
 ## Media
 
-<img width="1749" alt="book-search-engine" src="https://user-images.githubusercontent.com/28774706/110279479-68806900-7f96-11eb-99c1-68489076e591.png">
+<img width="1755" alt="shop-shop" src="https://user-images.githubusercontent.com/28774706/111087787-c229eb80-84e0-11eb-8be1-b9f960d4c1c2.png">
 
 ## Contributions
 
