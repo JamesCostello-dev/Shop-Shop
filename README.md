@@ -1,2 +1,1 @@
-# friendly-bassoon
-Redux Store
+# Redux Store
