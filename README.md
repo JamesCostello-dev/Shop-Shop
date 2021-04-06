@@ -2,7 +2,7 @@
 
 ## Description
 
-E-commerce platform refactor from Context API to Redux.
+Redux store is an E-Commerce MERN application using redux for state management.
 
 ## Table of Contents:
 
