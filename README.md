@@ -2,7 +2,7 @@
 
 ## Description
 
-Redux store is an E-Commerce MERN application using redux for state management.
+Shop Shop is a full stack ecommerce store.
 
 ## Table of Contents:
 
