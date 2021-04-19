@@ -7,17 +7,37 @@ Redux store is an E-Commerce MERN application using redux for state management.
 ## Table of Contents:
 
 - [Description](#description)
-- [Built With](#built-with)
-- [Deployed](#repository)
+- [Tech](#tech)
+- [Install](#install)
+- [Deployed Application](#deployed-application)
 - [License](#license)
 
 ## Tech
 
-HTML, CSS, Javascript, React, Redux, Express, Node and MongoDB
+* HTML
+* CSS
+* Javascript
+* React
+* Redux
+* Express
+* Node and 
+* MongoDB
+
+## Install
+
+`open terminal`
+
+`git clone git@github.com:JamesCostello-dev/Portfolio.git`
+
+`cd Portfolio`
+
+`npm install`
+
+`npm start`
 
 ## Deployed Application
 
-[Deployed Link](https://murmuring-lake-12171.herokuapp.com/)
+[View Shop Shop](https://murmuring-lake-12171.herokuapp.com/)
 
 ## Media
 
