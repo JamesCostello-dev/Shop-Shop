@@ -1,4 +1,4 @@
-# Redux Store
+# Shop Shop
 
 ## Description
 
