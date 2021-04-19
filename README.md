@@ -33,6 +33,8 @@ Shop Shop is a full stack ecommerce store.
 
 `npm install`
 
+`npm run seed`
+
 `npm start`
 
 ## Deployed Application
