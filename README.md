@@ -20,7 +20,7 @@ Shop Shop is a full stack ecommerce store.
 * React
 * Redux
 * Express
-* Node and 
+* Node
 * MongoDB
 
 ## Install
@@ -36,6 +36,10 @@ Shop Shop is a full stack ecommerce store.
 `npm run seed`
 
 `npm start`
+
+Note:
+
+Make sure mongoDB is running on your system.
 
 ## Deployed Application
 
