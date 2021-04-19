@@ -2,7 +2,7 @@
 
 ## Description
 
-Shop Shop is a full stack ecommerce store.
+Shop Shop is a full stack MERN eCommerce store.  Customers can signup/login and logout. Search products from a database.  Add products to cart or remove products from cart.  Checkout when ready using Stripe API.
 
 ## Table of Contents:
 
@@ -22,6 +22,7 @@ Shop Shop is a full stack ecommerce store.
 * Express
 * Node
 * MongoDB
+* Stripe
 
 ## Install
 
