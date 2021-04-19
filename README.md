@@ -27,9 +27,9 @@ Shop Shop is a full stack ecommerce store.
 
 `open terminal`
 
-`git clone git@github.com:JamesCostello-dev/Portfolio.git`
+`git clone git@github.com:JamesCostello-dev/Shop-Shop.git`
 
-`cd Portfolio`
+`cd Shop-Shop`
 
 `npm install`
 
