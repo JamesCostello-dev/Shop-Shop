@@ -44,7 +44,7 @@ Make sure mongoDB is running on your system.
 
 ## Deployed Application
 
-[View Shop Shop](https://murmuring-lake-12171.herokuapp.com/)
+[View Shop Shop](https://shop-shop-d37c5.web.app/)
 
 ## Media
 
